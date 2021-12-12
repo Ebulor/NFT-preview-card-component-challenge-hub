@@ -68,7 +68,7 @@ h2 {
   color: var(--White);
   padding-top: 15px;
   cursor: pointer;
-  font-size:18px;
+  font-size:20px;
 }
 h2:hover {
   color: var(--Cyan);
